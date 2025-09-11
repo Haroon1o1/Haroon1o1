@@ -8,6 +8,23 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=haroon1o1&theme=dark" height="180px" />
 </p>
 
+### 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/haroon1o1/project1">
+    <img src="./qalb.png" alt="Project 1" width="200" style="margin:10px;" />
+  </a>
+  <a href="https://github.com/haroon1o1/project2">
+    <img src="./fitxol.png" alt="Project 2" width="200" style="margin:10px;" />
+  </a>
+  <a href="https://github.com/haroon1o1/project3">
+    <img src="./perfect-fit.jpg" alt="Project 3" width="200" style="margin:10px;" />
+  </a>
+  <a href="https://github.com/haroon1o1/project3">
+    <img src="./hearmate.png" alt="Project 3" width="200" style="margin:10px;" />
+  </a>
+</p>
+
 
 
 
