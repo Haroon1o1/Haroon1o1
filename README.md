@@ -21,7 +21,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/haroon1o1/project3">
-    <img src="./perfect-fit.jpg" alt="Project 3" width="200" style="margin:10px;" />
+    <img src="./perfectfit.jpg" alt="Project 3" width="200" style="margin:10px;" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/haroon1o1/project3">
