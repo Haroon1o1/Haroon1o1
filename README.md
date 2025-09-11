@@ -13,19 +13,19 @@
 
 <p align="center">
   <a href="https://github.com/haroon1o1/project1">
-    <img src="./qalb.png" alt="Project 1" width="200" style="margin:10px;" />
+    <img src="./qalb.png" alt="Project 1" width="160" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/haroon1o1/project2">
-    <img src="./fitxol.png" alt="Project 2" width="200" style="margin:10px;" />
+    <img src="./fitxol.png" alt="Project 2" width="160" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/haroon1o1/project3">
-    <img src="./perfectfit.jpg" alt="Project 3" width="200" style="margin:10px;" />
+    <img src="./perfectfit.jpg" alt="Project 3" width="160" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/haroon1o1/project3">
-    <img src="./hearmate.png" alt="Project 3" width="200" style="margin:10px;" />
+    <img src="./hearmate.png" alt="Project 3" width="160" />
   </a>
 </p>
 
