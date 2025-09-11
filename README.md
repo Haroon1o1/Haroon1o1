@@ -3,16 +3,20 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Tab Bar Example</title>
+<title>Haroon's Profile</title>
 <style>
   body {
     font-family: Arial, sans-serif;
-    margin: 50px;
+    margin: 20px;
+    background: #f5f5f5;
   }
+
+  /* Tab styles */
   .tab {
     display: flex;
     border-bottom: 2px solid #ccc;
     cursor: pointer;
+    margin-bottom: 20px;
   }
   .tab div {
     padding: 10px 20px;
@@ -31,18 +35,43 @@
     border-top: none;
     height: 400px;
     padding: 20px;
+    background: white;
+    overflow-y: auto;
   }
   .tab-content div {
     display: none;
-    height: 100%;
   }
   .tab-content div.active {
     display: block;
+  }
+
+  /* Profile styling */
+  .profile img.right {
+    float: right;
+    margin-left: 20px;
+  }
+  .profile h1 {
+    margin-bottom: 0;
+  }
+  .profile p {
+    margin-top: 5px;
   }
 </style>
 </head>
 <body>
 
+<div class="profile">
+  <img class="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200" alt="Coding">
+  <h1>👋 Hi, I'm Haroon</h1>
+  <p>🚀 Flutter Developer | Passionate about UI & mobile performance</p>
+  <p>📱 Helping devs build better apps with Flutter</p>
+  <p>🏢 Working at: Self-employed | 🌍 Based in: Pakistan | UTC+05:00</p>
+  <p>📬 Reach me at: ranaharoonwork@gmail.com</p>
+</div>
+
+<hr>
+
+<!-- Tab Bar -->
 <div class="tab">
   <div class="tab-item active" data-tab="overview">Overview</div>
   <div class="tab-item" data-tab="projects">Projects</div>
@@ -52,15 +81,22 @@
 <div class="tab-content">
   <div id="overview" class="active">
     <h2>Overview</h2>
-    <p>This is the overview content.</p>
+    <p>Here’s a little about me, my journey as a Flutter Developer, and what I love building.</p>
+    <p>Languages & Tools:</p>
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman" alt="Skills">
   </div>
   <div id="projects">
     <h2>Projects</h2>
-    <p>These are your projects.</p>
+    <p>Some of my recent projects include Flutter apps, API integrations, and mobile UI experiments.</p>
   </div>
   <div id="skills">
     <h2>Skills</h2>
-    <p>These are your skills.</p>
+    <ul>
+      <li>Flutter & Dart</li>
+      <li>Firebase & APIs</li>
+      <li>UI/UX Design</li>
+      <li>Git & Version Control</li>
+    </ul>
   </div>
 </div>
 
@@ -81,64 +117,3 @@
 
 </body>
 </html>
-
-
-
-
-
-### 👋 Hi, I'm Haroon
-
-🚀 Flutter Developer | Passionate about UI & mobile performance 
-📱 Helping devs build better apps with Flutter  
-
----
-
-🏢 **Working at**: I'm Self-employed  
-🌍 **Based in**: Pakistan | UTC+05:00  
-📬 **Reach me at**: ranaharoonwork@gmail.com  
-
----
-
-### 🌐 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haroon-naeem-77417025a/)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fahad_961)
-
----
-
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman)](https://skillicons.dev)
-<br><br>
-
-![Haroon's GitHub stats](https://github-readme-stats.vercel.app/api?username=haroon1o1&show_icons=true&theme=dark)
-
-
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-<br><br>
-
-
-
-
-</p>
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=JunaidJameel&label=Profile%20views&color=0e75b6&style=flat" alt="JunaidJameel" /> 
-
-</p>
-
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-
-
-
-- 🔭 I’m currently working on **Flutter**
-
-- 🌱 I’m currently learning **Back-End Dev**
-
-- 💬 Ask me about **Flutter, Dart, Firebase and API**
-
-- 📫 How to reach me **ranaharoonwork@gmail.com**
-
-
