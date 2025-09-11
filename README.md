@@ -23,7 +23,7 @@
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman)](https://skillicons.dev)
 <br><br>
 
-![Haroon's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunaidJameel&show_icons=true&theme=dark)
+![Haroon's GitHub stats](https://github-readme-stats.vercel.app/api?username=haroon1o1&show_icons=true&theme=dark)
 
 
 
