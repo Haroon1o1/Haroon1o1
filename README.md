@@ -1,6 +1,6 @@
 
 <h1 align="center" >
-  <img src="https://readme-typing-svg.demolab.com?size=30&color=FFFFFF&lines=Welcome+to+Haroon's+Github+Profile;" alt="Typing SVG" />
+  👋 Welcome to Haroon's Profile
 </h1>
 
 
