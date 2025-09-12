@@ -1,4 +1,8 @@
-<h1 align="center">👋 Welcome to Haroon's GitHub</h1>
+
+<h1 align="center" >
+  <img src="https://readme-typing-svg.demolab.com?size=30&color=FFFFFF&lines=Welcome+to+Haroon's+Github+Profile;" alt="Typing SVG" />
+</h1>
+
 
 <h3 align="center">📈 My GitHub Activity</h3>
 
