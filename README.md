@@ -23,6 +23,16 @@
   <a href="https://github.com/#">
     <img src="./vpn.png" alt="Project 3" width="300" />
   </a>
+  <a href="https://github.com/#">
+    <img src="./fitxoll.png" alt="Project 1" width="300" />
+  </a>
+
+  <a href="https://github.com/#">
+    <img src="./cinemaa.png" alt="Project 2" width="300" />
+  </a>
+  <a href="https://github.com/#">
+    <img src="./volt.png" alt="Project 3" width="300" />
+  </a>
 
 
 </div>
