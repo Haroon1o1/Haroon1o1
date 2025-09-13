@@ -3,7 +3,9 @@
   👋 Welcome to Haroon's Profile
 </h1>
 
-
+<a href="https://github.com/#" align="center">
+    <img src="./banner.jpeg" alt="Project 1"  />
+  </a>
 
 
 
