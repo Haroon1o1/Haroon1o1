@@ -16,7 +16,7 @@
   <a href="https://github.com/#">
     <img src="./qalbe.png" alt="Project 1" width="300" />
   </a>
-  &nbsp;&nbsp;
+
   <a href="https://github.com/#">
     <img src="./rentanything.png" alt="Project 2" width="300" />
   </a>
