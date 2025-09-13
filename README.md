@@ -10,22 +10,20 @@
 
 <h3 align="center">🚀 Featured Projects</h3>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/haroon1o1/project1">
-    <img src="./qalb.png" alt="Project 1" width="160" />
+    <img src="./qalb1.png" alt="Project 1" width="400" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/haroon1o1/project2">
-    <img src="./fitxol.png" alt="Project 2" width="160" />
+    <img src="./fitxol1.png" alt="Project 2" width="400" />
+  </a>
+  <a href="https://github.com/haroon1o1/project3">
+    <img src="./cinema.png" alt="Project 3" width="400" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/haroon1o1/project3">
-    <img src="./perfectfit.jpg" alt="Project 3" width="160" />
+    <img src="./hearmate1.png" alt="Project 3" width="400" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/haroon1o1/project3">
-    <img src="./hearmate.png" alt="Project 3" width="160" />
-  </a>
-</p>
 
-
+</div>
