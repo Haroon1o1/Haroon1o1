@@ -12,18 +12,15 @@
 
 <div align="center">
   <a href="https://github.com/haroon1o1/project1">
-    <img src="./qalb11.png" alt="Project 1" width="400" />
+    <img src="./qalbe.png" alt="Project 1" width="300" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/haroon1o1/project2">
-    <img src="./fitxol11.png" alt="Project 2" width="400" />
+    <img src="./rentanything.png" alt="Project 2" width="300" />
   </a>
   <a href="https://github.com/haroon1o1/project3">
-    <img src="./cinema11.png" alt="Project 3" width="400" />
+    <img src="./vpn.png" alt="Project 3" width="300" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/haroon1o1/project3">
-    <img src="./hearmate11.png" alt="Project 3" width="400" />
-  </a>
+
 
 </div>
