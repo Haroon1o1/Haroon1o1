@@ -81,6 +81,6 @@
 <h2 align="center">📫 Connect</h2>
 
 <p align="center">
-  <a href="#">LinkedIn</a> •
-  <a href="#">Portfolio</a>
+  <a href="https://www.linkedin.com/in/haroon-muhammad-naeem-77417025a/">LinkedIn</a> •
+  <a href="https://haroonfolio.vercel.app/">Portfolio</a>
 </p>
